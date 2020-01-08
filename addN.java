@@ -1,7 +1,5 @@
 package NewOne;
 
-//Test Bed
-
 public class addN {
 
 	
